@@ -1,5 +1,5 @@
-# test
-Aqie's first repository
+# About
+Shopping mall demo tool written in Vue1.0
 # install dependencies
 npm install
 
